@@ -1,6 +1,6 @@
 <?php
 
-// エラーは出力しない
+// NOTICEは出力しない
 error_reporting(E_ALL & ~E_NOTICE);
 
 // 改行文字
