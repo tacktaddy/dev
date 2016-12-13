@@ -1,2 +1,2 @@
 # dev
-Dev prj for [https://takahashi-it.com](https://takahashi-it.com)
+Sandbox project for [https://takahashi-it.com](https://takahashi-it.com)
