@@ -1,2 +1,2 @@
 # dev
-for development
+Dev prj for [https://takahashi-it.com](https://takahashi-it.com)
